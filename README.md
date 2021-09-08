@@ -1,6 +1,6 @@
 # discord_role_stripper
 
-I used this as an opporunity to play with regex in order to pull information from a large amount of data.
+I used this as an opportunity to play with regex in order to pull information from a large amount of data.
 
 I was also able to use some file based functions.
 
