@@ -1,4 +1,4 @@
-discord_role_stripper
+# discord_role_stripper
 
 I used this as an opporunity to play with regex in order to pull information from a large amount of data.
 
